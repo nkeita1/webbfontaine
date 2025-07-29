@@ -7,4 +7,3 @@ def helloworld():
 if __name__ == '__main__':
     app.run(debug=True)  # debug=True permet de voir les erreurs et recharger auto
 
-print("hello")
